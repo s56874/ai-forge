@@ -41,7 +41,7 @@ After completing this module, I will be able to:
 
 ---
 
-## 📂 Contents
+##  Contents
 
 This folder will contain:
 
