@@ -87,7 +87,7 @@ Types:
 
 ---
 
-## 📂 Files
+##  Files
 
 | File | Description |
 |---|---|
