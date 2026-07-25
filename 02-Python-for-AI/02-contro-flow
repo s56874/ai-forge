@@ -1,0 +1,75 @@
+# Control Flow in Python
+
+## 📌 Overview
+Control flow determines the order in which Python executes code. It allows programs to make decisions, repeat tasks, and control execution based on conditions.
+
+---
+
+## 📚 Topics Covered
+
+### 1. Conditional Statements
+- `if`
+- `if...else`
+- `if...elif...else`
+- Nested `if`
+
+### 2. Loops
+- `for` loop
+- `while` loop
+
+### 3. Loop Control Statements
+- `break`
+- `continue`
+- `pass`
+
+### 4. Pattern Programs
+- Star (`*`) patterns
+- Number patterns
+- Pyramid patterns
+
+---
+
+## 🎯 Learning Objectives
+
+After completing this section, you will be able to:
+
+- Write decision-making programs using conditional statements.
+- Repeat tasks efficiently using loops.
+- Control loop execution with `break`, `continue`, and `pass`.
+- Solve basic programming problems using control flow.
+
+---
+
+## 💻 Practice Programs
+
+- Check whether a number is even or odd
+- Find the largest of three numbers
+- Grade calculator
+- Voting eligibility checker
+- Multiplication table
+- Factorial of a number
+- Fibonacci series
+- Prime number checker
+- Number guessing game
+- Star pattern printing
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.x
+- Google Colab / Jupyter Notebook
+
+---
+
+## 📂 Files
+
+- `control_flow.ipynb` – Notes and example programs
+- `README.md` – Documentation for this section
+
+---
+
+## 🚀 Author
+
+**Samarth Kokate**  
+B.Tech CSE (Data Science) | Microsoft AI Nirmaan Trainee
