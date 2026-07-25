@@ -12,7 +12,7 @@ In this section, I learned the basic concepts required to start programming with
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 ### 1. Introduction to Python
 
@@ -107,14 +107,14 @@ Types:
 
 After completing this section, I can:
 
-✅ Write basic Python programs  
-✅ Understand variables and data types  
-✅ Take user input and display output  
-✅ Use operators in programs  
-✅ Build a strong foundation for AI programming  
+ Write basic Python programs  
+ Understand variables and data types  
+ Take user input and display output  
+ Use operators in programs  
+ Build a strong foundation for AI programming  
 
 ---
 
-## 📌 Status
+## Status
 
-🟡 Completed
+ Completed
