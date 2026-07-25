@@ -35,7 +35,7 @@ This section covers the fundamental concepts of decision-making and looping, whi
 
 ## Learning Objectives
 
-After completing this section, you will be able to:
+After completing this section, I will be able to:
 
 - Write programs using conditional statements.
 - Make decisions based on different conditions.
@@ -47,17 +47,11 @@ After completing this section, you will be able to:
 
 ## 💻 Practice Programs
 
-- Even or Odd Number
-- Positive, Negative, or Zero
-- Largest of Three Numbers
-- Grade Calculator
-- Voting Eligibility
-- Multiplication Table
-- Factorial
-- Fibonacci Series
-- Prime Number Check
-- Number Guessing Game
-- Star Pattern Programs
+1.Student Grade System – Calculate and display the student's grade based on marks.
+2.ATM Withdrawal System – Validate the PIN and process a withdrawal if the balance is sufficient.
+3.Multiplication Table – Print a multiplication table and stop when the result exceeds 50.
+4.Login System – Keep asking for the password until the correct one is entered.
+5.Attendance System – Display attendance, skip absent students, and create an empty send_report() function.
 
 ---
 
@@ -85,4 +79,4 @@ After completing this section, you will be able to:
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a star!
+
