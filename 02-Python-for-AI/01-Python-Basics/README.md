@@ -115,6 +115,4 @@ After completing this section, I can:
 
 ---
 
-## Status
 
- Completed
