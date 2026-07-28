@@ -1,0 +1,198 @@
+# Python Lists
+
+##  Overview
+
+This folder contains my learning and practice of **Python Lists** as part of the **Microsoft AI Nirmaan Program – Python for AI**.
+
+A **List** is one of Python's most commonly used data structures. It is an **ordered**, **mutable** (changeable) collection that allows multiple values to be stored in a single variable. Lists can contain different data types and are widely used for data processing, automation, Artificial Intelligence (AI), Machine Learning (ML), and Data Science applications.
+
+---
+
+#  Learning Objectives
+
+After completing this module, I can:
+
+* Understand how Python lists work.
+* Create and manipulate lists.
+* Access elements using indexing and slicing.
+* Add, update, and remove list items.
+* Iterate through lists using loops.
+* Apply list methods efficiently.
+* Solve real-world problems using lists.
+
+---
+
+#  Topics Covered
+
+## 1. Creating Lists
+
+Learned how to create lists with different data types.
+
+**Examples:**
+
+* Integer lists
+* String lists
+* Mixed data type lists
+* Empty lists
+
+---
+
+## 2. Indexing
+
+Accessing elements using positive and negative indexes.
+
+**Concepts Learned**
+
+* Positive indexing
+* Negative indexing
+* Accessing individual elements
+
+---
+
+## 3. Slicing
+
+Extracting portions of a list.
+
+**Concepts Learned**
+
+* Start index
+* End index
+* Step value
+* Reverse slicing
+
+---
+
+## 4. Updating Lists
+
+Modifying existing list elements.
+
+**Concepts Learned**
+
+* Replace values
+* Update multiple values
+* Modify nested lists
+
+---
+
+## 5. Adding Elements
+
+Adding new elements to a list.
+
+**Methods Used**
+
+* `append()`
+* `insert()`
+* `extend()`
+
+---
+
+## 6. Removing Elements
+
+Removing unwanted elements.
+
+**Methods Used**
+
+* `remove()`
+* `pop()`
+* `del`
+* `clear()`
+
+---
+
+## 7. List Methods
+
+Practiced commonly used list methods.
+
+* `append()`
+* `insert()`
+* `extend()`
+* `remove()`
+* `pop()`
+* `sort()`
+* `reverse()`
+* `count()`
+* `index()`
+* `copy()`
+
+---
+
+## 8. Looping Through Lists
+
+Learned different ways to iterate over list elements.
+
+* `for` loop
+* `while` loop
+* `enumerate()`
+
+---
+
+## 9. Nested Lists
+
+Working with lists inside other lists.
+
+**Examples**
+
+* Student marks
+* Matrix representation
+* Product categories
+
+---
+
+## 10. List Comprehensions
+
+Writing concise and efficient list operations.
+
+**Examples**
+
+* Creating new lists
+* Filtering data
+* Mathematical operations
+
+---
+
+#  Real-World Applications
+
+Python Lists are widely used in:
+
+*  Shopping Cart Systems
+*  Student Record Management
+*  Employee Management
+*  Sales Reports
+*  Inventory Systems
+*  Data Analysis
+*  Machine Learning datasets
+
+---
+
+
+
+---
+
+#  Tools Used
+
+* Python 3
+* Google Colab
+* Jupyter Notebook
+* Visual Studio Code
+* Git & GitHub
+
+---
+
+#  Key Takeaways
+
+After completing this module, I can:
+
+* Create and manage Python lists.
+* Perform CRUD (Create, Read, Update, Delete) operations on lists.
+* Apply list methods effectively.
+* Use loops and list comprehensions for efficient programming.
+* Solve practical programming problems using lists.
+* Build a strong foundation for advanced Python programming and Data Structures & Algorithms (DSA).
+
+---
+
+
+Learning Python through the **Microsoft AI Nirmaan Program – Python for AI**.
+
+
+
