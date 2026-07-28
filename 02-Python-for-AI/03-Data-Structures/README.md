@@ -219,22 +219,14 @@ After completing this module, I can confidently:
 
 ---
 
-# 👨‍💻 Author
-
-**Samarth Kokate**
-
-**Computer Science Engineering (Data Science) Student**
-
-Passionate about Artificial Intelligence, Machine Learning, Data Science, Python Programming, and Software Development.
-
 ---
 
-# ⭐ Support
+#  Support
 
 Thank you for visiting this repository.
 
 If you found this project helpful for learning Python Data Structures, consider giving this repository a **⭐ Star** and exploring the other modules in my **Microsoft AI Nirmaan Program – Python for AI** learning journey.
 
-Happy Coding! 
+ 
 
 
