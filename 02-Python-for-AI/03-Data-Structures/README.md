@@ -143,12 +143,10 @@ To strengthen my understanding of data structures, I solved practical programmin
 
 * Student Record Management System
 * Employee Management System
-*  Inventory Management System
-*  Online Shopping Cart
-*  Library Management System
-*  Hospital Management System
-*  Banking Transaction System
-*  Sales Analysis Dashboard
+* Inventory Management System
+* Library Management System
+* Bus Ticket Booking System
+
 
 These projects demonstrate how different Python data structures can be combined to build practical and efficient applications.
 
