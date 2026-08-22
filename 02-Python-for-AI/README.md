@@ -14,7 +14,7 @@ This folder contains my learning notes and practical coding exercises completed 
 
 ---
 
-# 📚 Topics Covered
+#  Topics Covered
 
 ## 1. Python Fundamentals
 
@@ -107,14 +107,6 @@ Topics:
 
 ---
 
-#  Files in This Folder
-
-| File | Description |
-|------|-------------|
-| Notes.md | Complete Python concepts and learning notes |
-| Python-Practice.ipynb | Python practice code including basics, data structures, NumPy, Pandas, and visualization |
-
----
 
 #  Tools Used
 
@@ -156,10 +148,6 @@ The concepts learned in this module will be used in:
 
 ---
 
-##  Status
 
- In Progress
-
----
 
 **Part of AI Forge | Microsoft Nirmaan Program**
