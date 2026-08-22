@@ -123,7 +123,7 @@ Functions Used
 plt.scatter()
 6. Histogram
 
-svg
+
 
 Learned how to understand the distribution of numerical data.
 
@@ -211,7 +211,6 @@ Data distribution analysis
 Relationship analysis
 11. Count Plot
 
-svg
 
 Learned how to visualize the number of observations in different categories.
 
