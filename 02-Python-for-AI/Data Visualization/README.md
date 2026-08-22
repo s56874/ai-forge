@@ -1,481 +1,412 @@
-# Data Visualization Using Matplotlib & Seaborn
+# 📊 Data Visualization with Matplotlib & Seaborn
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#data-visualization-using-matplotlib--seaborn)
+A collection of my learning notes, practice exercises, and real-world data visualization examples using **Matplotlib** and **Seaborn**.
 
-## Overview
-
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#overview)
-
-This folder contains my learning and practice of **Data Visualization using Matplotlib and Seaborn** as part of my journey in **Python for Data Science, Machine Learning, and Artificial Intelligence**.
-
-**Matplotlib** is a powerful Python library used for creating **data visualizations and graphs**. It helps transform numerical and structured data into visual representations that are easier to understand and analyze.
-
-**Seaborn** is a powerful Python library built on top of Matplotlib. It is mainly used for creating **statistical and attractive data visualizations** and works effectively with Pandas DataFrames.
-
-Matplotlib and Seaborn are widely used in **Data Analysis, Data Science, Machine Learning (ML), Artificial Intelligence (AI), Business Analytics, Exploratory Data Analysis (EDA), and Scientific Computing**.
+This module is part of my learning journey in **Python for Data Science, Machine Learning, and Artificial Intelligence**.
 
 ---
 
-# Learning Objectives
+## 📌 Overview
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#learning-objectives)
+Data visualization is the process of representing data using charts, graphs, and other visual formats. It helps in understanding patterns, trends, relationships, distributions, and insights from data.
+
+In this module, I explored two popular Python visualization libraries:
+
+- **Matplotlib** – Used for creating customizable and detailed visualizations.
+- **Seaborn** – Built on top of Matplotlib and mainly used for statistical and attractive visualizations.
+
+These libraries are widely used in:
+
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Business Analytics
+- Scientific Research
+
+---
+
+# 🎯 Learning Objectives
 
 After completing this module, I can:
 
-- Understand what data visualization is and why it is important.
-- Create different types of charts using Matplotlib.
-- Create statistical visualizations using Seaborn.
-- Customize charts using titles, labels, legends, and grids.
+- Understand the importance of data visualization.
+- Create different types of charts and graphs.
 - Visualize numerical and categorical data.
-- Compare and analyze data using graphs.
-- Analyze relationships between variables.
+- Analyze trends and patterns.
 - Understand data distributions.
+- Compare different categories.
+- Analyze relationships between variables.
 - Identify potential outliers.
 - Analyze correlations using heatmaps.
-- Create multiple plots for data analysis.
-- Apply data visualization to real-world datasets.
+- Customize visualizations.
+- Apply visualization techniques to real-world datasets.
 
 ---
 
-# Topics Covered
+# 📚 Topics Covered
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#topics-covered)
+## Part 1: Matplotlib
 
-## 1. Introduction to Data Visualization
+### 1. Introduction to Matplotlib
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#1-introduction-to-data-visualization)
-
-Learned what data visualization is and why it is important in Data Analysis and Data Science.
-
-**Concepts Learned**
-
-- Introduction to Data Visualization
-- Importance of Data Visualization
-- Understanding data through graphs
-- Applications of visualization
-- Introduction to Matplotlib
-- Introduction to Seaborn
-
----
-
-# Matplotlib
-
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#matplotlib)
-
-## 2. Introduction to Matplotlib
-
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#2-introduction-to-matplotlib)
-
-Learned how to import and use the Matplotlib library.
-
-**Library Used**
+Learned how to use Matplotlib for creating basic and customizable visualizations.
 
 ```python
 import matplotlib.pyplot as plt
 ```
 
-**Concepts Learned**
+### Concepts Covered
 
 - `matplotlib.pyplot`
-- Creating basic plots
-- Displaying graphs using `plt.show()`
+- Creating plots
+- Displaying visualizations
+- Figure size
+- Titles and labels
+- Legends
+- Grid
 
 ---
 
-## 3. Line Plot
+### 2. Line Plot
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#3-line-plot)
+Used to visualize trends and continuous data.
 
-Learned how to visualize continuous data using line charts.
+### Examples
 
-**Examples**
-
-- Temperature changes
 - Monthly sales
+- Temperature changes
 - Stock prices
-- Student performance over time
+- Student performance
 
-**Functions Used**
+### Function Used
 
-- `plt.plot()`
-- `plt.show()`
+```python
+plt.plot()
+```
 
 ---
 
-## 4. Bar Chart
+### 3. Bar Chart
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#4-bar-chart)
+Used to compare values between different categories.
 
-Learned how to compare different categories using bar charts.
+### Examples
 
-**Examples**
-
-- Student marks comparison
+- Student marks
 - Product sales
 - Department-wise employees
 - Monthly revenue
 
-**Functions Used**
+### Functions Used
 
-- `plt.bar()`
-- `plt.barh()`
+```python
+plt.bar()
+plt.barh()
+```
 
 ---
 
-## 5. Scatter Plot
+### 4. Scatter Plot
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#5-scatter-plot)
+Used to understand the relationship between two numerical variables.
 
-Learned how to visualize relationships between two numerical variables.
-
-**Examples**
+### Examples
 
 - Study hours vs marks
 - Experience vs salary
 - House area vs price
 
-**Functions Used**
+### Function Used
 
-- `plt.scatter()`
+```python
+plt.scatter()
+```
 
 ---
 
-## 6. Histogram
+### 5. Histogram
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#6-histogram)
+Used to understand the distribution of numerical data.
 
-Learned how to understand the distribution of numerical data.
-
-**Examples**
+### Examples
 
 - Student marks distribution
 - Employee salary distribution
 - Customer age distribution
 
-**Functions Used**
+### Function Used
 
-- `plt.hist()`
+```python
+plt.hist()
+```
 
 ---
 
-## 7. Pie Chart
+### 6. Pie Chart
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#7-pie-chart)
+Used to visualize proportions and percentages.
 
-Learned how to visualize proportions and percentages.
-
-**Examples**
+### Examples
 
 - Market share
 - Monthly expenses
 - Product category sales
 
-**Functions Used**
+### Function Used
 
-- `plt.pie()`
-
----
-
-## 8. Chart Customization
-
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#8-chart-customization)
-
-Learned how to improve the appearance and readability of charts.
-
-**Concepts Learned**
-
-- Chart titles
-- X-axis labels
-- Y-axis labels
-- Legends
-- Grid
-- Figure size
-
-**Functions Used**
-
-- `plt.title()`
-- `plt.xlabel()`
-- `plt.ylabel()`
-- `plt.legend()`
-- `plt.grid()`
-- `plt.figure()`
+```python
+plt.pie()
+```
 
 ---
 
-## 9. Multiple Plots
+### 7. Chart Customization
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#9-multiple-plots)
+Learned how to make visualizations more readable and informative.
 
-Learned how to display multiple visualizations for better data analysis.
+### Functions Used
 
-**Concepts Learned**
-
-- Creating multiple plots
-- Comparing different charts
-- Using subplots
-
-**Functions Used**
-
-- `plt.subplot()`
-- `plt.subplots()`
+```python
+plt.title()
+plt.xlabel()
+plt.ylabel()
+plt.legend()
+plt.grid()
+plt.figure()
+plt.show()
+```
 
 ---
 
-# Seaborn
+### 8. Multiple Plots
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#seaborn)
+Learned how to display multiple charts for better comparison and analysis.
 
-## 10. Introduction to Seaborn
+### Functions Used
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#10-introduction-to-seaborn)
+```python
+plt.subplot()
+plt.subplots()
+```
 
-Learned how to import and use the Seaborn library for statistical data visualization.
+---
 
-**Library Used**
+# Part 2: Seaborn
+
+## 9. Introduction to Seaborn
+
+Seaborn is a Python visualization library built on top of Matplotlib. It is useful for creating attractive and statistical visualizations.
 
 ```python
 import seaborn as sns
 ```
 
-**Concepts Learned**
+### Concepts Covered
 
-- Introduction to Seaborn
 - Statistical visualization
 - Working with Pandas DataFrames
-- Creating attractive visualizations
 - Data distribution analysis
 - Relationship analysis
+- Categorical visualization
 
 ---
 
-## 11. Count Plot
+## 10. Count Plot
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#11-count-plot)
+Used to display the number of observations in different categories.
 
-Learned how to visualize the number of observations in different categories.
+### Examples
 
-**Examples**
-
-- Number of students by department
-- Number of employees by department
-- Number of customers by category
+- Students by department
+- Employees by department
+- Customers by category
 - Product category count
 
-**Functions Used**
-
-- `sns.countplot()`
+```python
+sns.countplot()
+```
 
 ---
 
-## 12. Bar Plot
+## 11. Bar Plot
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#12-bar-plot)
+Used to compare numerical values across different categories.
 
-Learned how to compare numerical values across different categories.
-
-**Examples**
+### Examples
 
 - Average salary by department
 - Average marks by subject
 - Average sales by product
-- Average price by category
 
-**Functions Used**
-
-- `sns.barplot()`
+```python
+sns.barplot()
+```
 
 ---
 
-## 13. Seaborn Scatter Plot
+## 12. Scatter Plot
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#13-seaborn-scatter-plot)
+Used to visualize relationships between numerical variables.
 
-Learned how to visualize relationships between two numerical variables.
-
-**Examples**
+### Examples
 
 - Study hours vs marks
 - Experience vs salary
 - Age vs income
 - House area vs price
 
-**Functions Used**
-
-- `sns.scatterplot()`
+```python
+sns.scatterplot()
+```
 
 ---
 
-## 14. Seaborn Line Plot
+## 13. Line Plot
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#14-seaborn-line-plot)
+Used to visualize trends and changes over time.
 
-Learned how to visualize trends and changes in data.
-
-**Examples**
+### Examples
 
 - Monthly sales
-- Temperature trends
 - Revenue growth
-- Stock price trends
+- Temperature trends
 
-**Functions Used**
-
-- `sns.lineplot()`
-
----
-
-## 15. Seaborn Histogram
-
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#15-seaborn-histogram)
-
-Learned how to visualize the distribution of numerical data.
-
-**Examples**
-
-- Student marks distribution
-- Employee salary distribution
-- Customer age distribution
-
-**Functions Used**
-
-- `sns.histplot()`
+```python
+sns.lineplot()
+```
 
 ---
 
-## 16. Box Plot
+## 14. Histogram
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#16-box-plot)
+Used to analyze the distribution of numerical data.
 
-Learned how to understand data distribution and identify potential outliers.
+### Examples
 
-**Concepts Learned**
+- Student marks
+- Employee salaries
+- Customer age
+
+```python
+sns.histplot()
+```
+
+---
+
+## 15. Box Plot
+
+Used to understand data distribution and identify potential outliers.
+
+### Concepts Covered
 
 - Median
 - Quartiles
 - Data spread
 - Outliers
-- Distribution comparison
 
-**Examples**
+### Examples
 
-- Salary distribution by department
-- Marks distribution by class
-- Customer spending analysis
+- Salary distribution
+- Student marks
+- Customer spending
 
-**Functions Used**
-
-- `sns.boxplot()`
+```python
+sns.boxplot()
+```
 
 ---
 
-## 17. Heatmap
+## 16. Heatmap
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#17-heatmap)
+Used to visualize correlations between numerical variables.
 
-Learned how to visualize correlations and relationships between numerical variables.
-
-**Examples**
+### Examples
 
 - Feature correlation
 - Student performance analysis
 - Sales analysis
 - Customer analysis
 
-**Functions Used**
-
-- `sns.heatmap()`
-
----
-
-## 18. Hue
-
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#18-hue)
-
-Learned how to compare different groups within the same visualization using the `hue` parameter.
-
-**Examples**
-
-- Comparing genders
-- Comparing departments
-- Comparing product categories
-- Comparing customer groups
+```python
+sns.heatmap()
+```
 
 ---
 
-## 19. Seaborn Styling
+## 17. Hue
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#19-seaborn-styling)
+Used to compare multiple categories within the same visualization.
 
-Learned how to improve the appearance of Seaborn visualizations.
+### Examples
 
-**Functions Used**
+- Gender comparison
+- Department comparison
+- Product categories
+- Customer groups
 
-- `sns.set_theme()`
-- `sns.set_style()`
+```python
+sns.scatterplot(x="Age", y="Salary", hue="Department")
+```
 
 ---
 
-## 20. Real-World Data Visualization Problems
+## 18. Seaborn Styling
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#20-real-world-data-visualization-problems)
+Learned how to improve the appearance of visualizations.
 
-Applied Matplotlib and Seaborn concepts to practical datasets.
+```python
+sns.set_theme()
+sns.set_style()
+```
 
-**Examples**
+---
+
+# 🌍 Real-World Applications
+
+The concepts learned in this module can be applied to:
 
 - Student Performance Analysis
 - Employee Salary Analysis
-- Sales Data Visualization
-- Monthly Revenue Analysis
-- Temperature Trends
-- Customer Data Analysis
-- E-Commerce Data Analysis
-
-**Matplotlib Visualizations Used**
-
-- Line charts
-- Bar charts
-- Scatter plots
-- Histograms
-- Pie charts
-
-**Seaborn Visualizations Used**
-
-- Count plots
-- Bar plots
-- Scatter plots
-- Line plots
-- Histograms
-- Box plots
-- Heatmaps
+- Sales Analysis
+- Customer Behavior Analysis
+- Financial Data Analysis
+- E-Commerce Analytics
+- Healthcare Data Analysis
+- Business Reporting
+- Exploratory Data Analysis
+- Machine Learning Data Analysis
 
 ---
 
-# Real-World Applications
+# 📈 Visualizations Covered
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#real-world-applications)
+## Matplotlib
 
-Matplotlib and Seaborn are widely used in:
+- Line Plot
+- Bar Chart
+- Horizontal Bar Chart
+- Scatter Plot
+- Histogram
+- Pie Chart
+- Multiple Plots
 
-- Data Analysis
-- Data Visualization
-- Business Analytics
-- Financial Analysis
-- Machine Learning
-- Artificial Intelligence
-- Scientific Research
-- Sales and Marketing Analysis
-- Customer Analytics
-- Exploratory Data Analysis (EDA)
-- Data Reporting
+## Seaborn
+
+- Count Plot
+- Bar Plot
+- Scatter Plot
+- Line Plot
+- Histogram
+- Box Plot
+- Heatmap
 
 ---
 
-# 🛠 Tools Used
+# 🛠️ Technologies Used
 
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#-tools-used)
-
-- Python 3
+- Python
 - Matplotlib
 - Seaborn
 - NumPy
@@ -483,30 +414,36 @@ Matplotlib and Seaborn are widely used in:
 - Google Colab
 - Jupyter Notebook
 - Visual Studio Code
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-# Key Takeaways
-
-[svg](https://github.com/s56874/ai-forge/blob/main/02-Python-for-AI/Data%20Visualization/README.md#key-takeaways)
+# 💡 Key Takeaways
 
 After completing this module, I can:
 
-- Understand the importance of data visualization.
-- Create line plots, bar charts, scatter plots, histograms, and pie charts using Matplotlib.
-- Create count plots, bar plots, scatter plots, line plots, histograms, box plots, and heatmaps using Seaborn.
-- Customize graphs using titles, labels, legends, and grids.
-- Analyze numerical and categorical data visually.
-- Compare data using different chart types.
-- Analyze relationships between variables.
+- Create professional data visualizations using Matplotlib.
+- Create statistical visualizations using Seaborn.
+- Analyze trends and patterns in data.
 - Understand data distributions.
-- Identify potential outliers using box plots.
+- Compare categories and numerical values.
+- Analyze relationships between variables.
+- Identify potential outliers.
 - Analyze correlations using heatmaps.
-- Create multiple plots for data analysis.
-- Apply Matplotlib and Seaborn to real-world datasets.
-- Build a strong foundation for **Data Visualization, Data Analysis, Machine Learning, Data Science, and Artificial Intelligence**.
+- Customize charts using titles, labels, legends, and grids.
+- Apply visualization techniques to real-world datasets.
+
+This module provides a strong foundation for **Data Analysis, Exploratory Data Analysis (EDA), Machine Learning, Data Science, and Artificial Intelligence**.
 
 ---
 
-Learning **Data Visualization using Matplotlib and Seaborn** as part of my journey in **Data Science and Artificial Intelligence**.
+## 🚀 Learning Journey
+
+Learning **Data Visualization with Matplotlib & Seaborn** as part of my journey in:
+
+**Python → Data Analysis → Data Science → Machine Learning → Artificial Intelligence**
+
+---
+
+⭐ *Learning by practicing, analyzing real-world data, and building strong foundations in Data Science.*
