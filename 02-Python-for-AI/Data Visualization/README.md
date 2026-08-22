@@ -39,7 +39,7 @@ After completing this module, I can:
 
 ## 1. Introduction to Data Visualization
 
-[svg](https://github.com/s56874/ai-forge/tree/main/02-Python-for-AI/07-Data%20Visualization#1-introduction-to-data-visualization)
+
 
 Learned what data visualization is and why it is important in Data Analysis and Data Science.
 
