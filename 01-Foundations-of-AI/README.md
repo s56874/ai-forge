@@ -62,11 +62,8 @@ This folder will contain:
 
 ---
 
-##  Status
 
- In Progress
 
----
 
 ##  Microsoft Nirmaan Program
 
