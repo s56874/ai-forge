@@ -1,4 +1,4 @@
-# 📊 Data Visualization with Matplotlib & Seaborn
+#  Data Visualization with Matplotlib & Seaborn
 
 A collection of my learning notes, practice exercises, and real-world data visualization examples using **Matplotlib** and **Seaborn**.
 
@@ -6,7 +6,7 @@ This module is part of my learning journey in **Python for Data Science, Machine
 
 ---
 
-## 📌 Overview
+## Overview
 
 Data visualization is the process of representing data using charts, graphs, and other visual formats. It helps in understanding patterns, trends, relationships, distributions, and insights from data.
 
@@ -27,7 +27,7 @@ These libraries are widely used in:
 
 ---
 
-# 🎯 Learning Objectives
+#  Learning Objectives
 
 After completing this module, I can:
 
@@ -45,7 +45,7 @@ After completing this module, I can:
 
 ---
 
-# 📚 Topics Covered
+#  Topics Covered
 
 ## Part 1: Matplotlib
 
@@ -363,7 +363,7 @@ sns.set_style()
 
 ---
 
-# 🌍 Real-World Applications
+#  Real-World Applications
 
 The concepts learned in this module can be applied to:
 
@@ -380,7 +380,7 @@ The concepts learned in this module can be applied to:
 
 ---
 
-# 📈 Visualizations Covered
+# Visualizations Covered
 
 ## Matplotlib
 
@@ -404,7 +404,7 @@ The concepts learned in this module can be applied to:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - Matplotlib
@@ -419,7 +419,7 @@ The concepts learned in this module can be applied to:
 
 ---
 
-# 💡 Key Takeaways
+#  Key Takeaways
 
 After completing this module, I can:
 
@@ -438,7 +438,7 @@ This module provides a strong foundation for **Data Analysis, Exploratory Data A
 
 ---
 
-## 🚀 Learning Journey
+##  Learning Journey
 
 Learning **Data Visualization with Matplotlib & Seaborn** as part of my journey in:
 
@@ -446,4 +446,4 @@ Learning **Data Visualization with Matplotlib & Seaborn** as part of my journey 
 
 ---
 
-⭐ *Learning by practicing, analyzing real-world data, and building strong foundations in Data Science.*
+ *Learning by practicing, analyzing real-world data, and building strong foundations in Data Science.*
