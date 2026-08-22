@@ -281,7 +281,7 @@ Seaborn can be used for:
 
 ---
 
-# 💡 Key Takeaways
+#  Key Takeaways
 
 After completing this module, I can:
 
@@ -304,4 +304,4 @@ Learning **Seaborn** as part of my journey:
 
 **Python → Data Analysis → Exploratory Data Analysis → Data Visualization → Data Science → Machine Learning → Artificial Intelligence**
 
-⭐ *Learning by exploring data, discovering patterns, and turning raw data into meaningful insights.*
+ *Learning by exploring data, discovering patterns, and turning raw data into meaningful insights.*
