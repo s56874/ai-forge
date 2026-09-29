@@ -13,18 +13,6 @@ It is widely used in:
 
 ---
 
-## 📚 Topics
-
-| #  | Topic             | Notes                                    |
-| -- | ----------------- | ---------------------------------------- |
-| 01 | Neural Networks   | [Notes](./01-Neural-Networks/Notes.md)   |
-| 02 | CNN               | [Notes](./02-CNN/Notes.md)               |
-| 03 | RNN               | [Notes](./03-RNN/Notes.md)               |
-| 04 | LSTM & GRU        | [Notes](./04-LSTM-GRU/Notes.md)          |
-| 05 | Transfer Learning | [Notes](./05-Transfer-Learning/Notes.md) |
-| 06 | Object Detection  | [Notes](./06-Object-Detection/Notes.md)  |
-
----
 
 ## 🧠 Learning Path
 
@@ -74,8 +62,6 @@ Learn the basic building blocks of Deep Learning.
 * Dropout
 * Train / Validation / Test
 
-[📖 Read Notes](./01-Neural-Networks/Notes.md)
-
 ---
 
 ## 02 - CNN
@@ -114,7 +100,6 @@ CNNs are mainly used for image and visual data.
 * MobileNet
 * EfficientNet
 
-[📖 Read Notes](./02-CNN/Notes.md)
 
 ---
 
@@ -141,7 +126,6 @@ RNNs are designed to work with sequential data.
 * Exploding Gradient
 * RNN Limitations
 
-[📖 Read Notes](./03-RNN/Notes.md)
 
 ---
 
@@ -182,9 +166,6 @@ Topics:
 * LSTM vs GRU
 * Advantages and Limitations
 
-[📖 Read Notes](./04-LSTM-GRU/Notes.md)
-
----
 
 ## 05 - Transfer Learning
 
@@ -231,9 +212,6 @@ Fine-Tune
 Evaluate
 ```
 
-[📖 Read Notes](./05-Transfer-Learning/Notes.md)
-
----
 
 ## 06 - Object Detection
 
@@ -287,7 +265,6 @@ NMS
 Final Detection
 ```
 
-[📖 Read Notes](./06-Object-Detection/Notes.md)
 
 ---
 
@@ -483,15 +460,6 @@ Deployment
 ```
 
 
-## 🔗 Related Sections
 
-* [04 - Machine Learning](../04-Machine-Learning/)
-* [06 - Natural Language Processing](../06-Natural-Language-Processing/)
-* [07 - Computer Vision](../07-Computer-Vision/)
-* [08 - AI Tools and Deployment](../08-AI-Tools-and-Deployment/)
-* [09 - Generative AI and LLMs](../09-Generative-AI-and-LLMs/)
-* [10 - Projects](../10-Projects/)
-
----
 
 
